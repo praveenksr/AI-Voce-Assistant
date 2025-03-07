@@ -1,4 +1,4 @@
-# AI-Voce-Assistant
+# AI-Voice-Assistant
 
 ## Project Overview
 
